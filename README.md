@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jbrown6498
+- 👋 Hi, I’m Jacob.
 - 👀 I’m interested in web development at the moment.
 - 🌱 I’m currently learning web development with ASP.NET
 - 💞️ I’m not looking to collaborate on anything currently.
